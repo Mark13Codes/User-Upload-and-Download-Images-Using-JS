@@ -8,8 +8,8 @@ body{
 }
 
 #display_image{
-    width: 500px;
-    height: 500px;
+    width: 800px;
+    height: 800px;
     border: 1px solid black;
     background-position: center;
     background-size: cover;
